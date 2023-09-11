@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading;
 
-namespace Sudoku
+namespace TikTakToe
 {
     class MainClass
     {
